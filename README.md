@@ -1,13 +1,14 @@
-# FocusFlow
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e72f2ae-75ff-4241-9307-b3fb13fc571c" alt="FocusFlow Logo" width="500">
+  <br>
+  <h1><i>FocusFlow</i></h1>
 </p>
 
 FocusFlow is a privacy-focused, offline-first Android application designed to eliminate distractions and help you maintain deep focus. By automatically toggling system states and managing app activity based on your active usage, FocusFlow provides a seamless way to regain control over your attention.
 
 ---
 
-##  Key Features
+## Key Features
 
 *   **Intelligent Do Not Disturb**: FocusFlow automatically activates Do Not Disturb (DND) mode the moment you open any of your configured, protected applications.
 *   **Custom DND Timer**: Features a built-in countdown timer that automatically restores your original system profile and turns off Do Not Disturb after a set duration.
@@ -18,7 +19,7 @@ FocusFlow is a privacy-focused, offline-first Android application designed to el
 
 ---
 
-##  Requirements & Setup
+## Requirements & Setup
 
 To ensure FocusFlow functions flawlessly in the background, the following permissions are required:
 
@@ -28,11 +29,11 @@ To ensure FocusFlow functions flawlessly in the background, the following permis
 
 ---
 
-##  Credits & Support
+## Credits & Support
 
 FocusFlow is independently developed and maintained. 
 
-*   **Developer:** [antunlar](https://github.com/antunlar)
+*   **Developer:** [antunlargg](https://github.com/antunlargg)
 *   **Project Repository:** Feel free to open issues, submit pull requests, or explore the source code right here on GitHub.
 
 <p align="center">

@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e72f2ae-75ff-4241-9307-b3fb13fc571c" alt="FocusFlow Logo" width="500">
-  <br>
-  <h1><i>FocusFlow</i></h1>
+  <h1><code>FocusFlow</code></h1>
 </p>
 
 FocusFlow is a privacy-focused, offline-first Android application designed to eliminate distractions and help you maintain deep focus. By automatically toggling system states and managing app activity based on your active usage, FocusFlow provides a seamless way to regain control over your attention.
@@ -33,7 +32,7 @@ To ensure FocusFlow functions flawlessly in the background, the following permis
 
 FocusFlow is independently developed and maintained. 
 
-*   **Developer:** [antunlargg](https://github.com/antunlargg)
+*   **Developer:** [antunlar](https://github.com/antunlar)
 *   **Project Repository:** Feel free to open issues, submit pull requests, or explore the source code right here on GitHub.
 
 <p align="center">

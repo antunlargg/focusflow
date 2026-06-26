@@ -1,9 +1,7 @@
-# _FocusFlow_
+# FocusFlow
 <p align="center">
   <img src="https://github.com/user-attachments/assets/2e72f2ae-75ff-4241-9307-b3fb13fc571c" alt="FocusFlow Logo" width="500">
 </p>
-
-# FocusFlow
 
 FocusFlow is a privacy-focused, offline-first Android application designed to eliminate distractions and help you maintain deep focus. By automatically toggling system states and managing app activity based on your active usage, FocusFlow provides a seamless way to regain control over your attention.
 

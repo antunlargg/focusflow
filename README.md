@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/2e72f2ae-75ff-4241-9307-b3fb13fc571c" alt="FocusFlow Logo" width="400">
+  <img src="https://github.com/user-attachments/assets/2e72f2ae-75ff-4241-9307-b3fb13fc571c" alt="FocusFlow Logo" width="500">
 </p>
 
 # FocusFlow
